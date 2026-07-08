@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/aryaputra1911/My-LeetCode-Solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/aryaputra1911/My-LeetCode-Solutions/tree/master/1667-fix-names-in-a-table) |
 | [1873-calculate-special-bonus](https://github.com/aryaputra1911/My-LeetCode-Solutions/tree/master/1873-calculate-special-bonus) |
 ## Array
